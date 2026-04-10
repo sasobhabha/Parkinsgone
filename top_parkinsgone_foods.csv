@@ -1,0 +1,101 @@
+food,brand,categories,tyrosine_mg,phenylalanine_mg,fiber_g,protein_g,carbs_g,fat_g,polyphenol_flag,fermented_flag,dopamine_support_score,predicted_score
+Premium Quality Xanthan Gum Baking Aid,Bob's Red Mill,undefined,0.0,0.0,864.0,123.0,864.0,0.0,0.0,0.0,86.4,47.7603457426768
+Scandinavian Crispbread With Oat Bran Cracker,Gg,undefined,0.0,0.0,625.0,156.0,938.0,0.0,0.0,0.0,62.5,45.04979370438385
+Original Taco Seasoning Mix,"French's,  Reckitt Benckiser  Inc.",undefined,0.0,0.0,278.0,0.0,1110.0,0.0,0.0,0.0,27.8,42.94574747244997
+Premium Guar Gum,Bob's Red Mill,undefined,0.0,0.0,900.0,0.0,900.0,0.0,0.0,0.0,90.0,42.94574747244997
+Fajita Seasoning Mix,Goya,undefined,0.0,0.0,278.0,0.0,833.0,0.0,0.0,0.0,27.8,42.94574747244997
+Taco Authentic Latina Seasoning Mix,Goya,undefined,0.0,0.0,278.0,0.0,1110.0,0.0,0.0,0.0,27.8,42.94574747244997
+Taco Seasoning Mix,"Foodtown,  Foodtown  Inc.",undefined,0.0,0.0,278.0,0.0,833.0,0.0,0.0,0.0,27.8,42.94574747244997
+Premium Xanthan Gum,Bob's Red Mill,undefined,0.0,0.0,864.0,0.0,864.0,0.0,0.0,0.0,86.4,42.94574747244997
+Picadillo Authentic Latina Seasoning Mix,Goya,undefined,0.0,0.0,278.0,0.0,1110.0,0.0,0.0,0.0,27.8,42.94574747244997
+Taco Seasoning,Shur Saving,undefined,0.0,0.0,278.0,0.0,833.0,0.0,0.0,0.0,27.8,42.94574747244997
+Dried Mushrooms,Melissa's,undefined,0.0,0.0,816.0,0.0,1220.0,0.0,0.0,0.0,81.60000000000001,42.94574747244997
+Taco Seasoning Mix,Shoprite,undefined,0.0,0.0,278.0,0.0,833.0,0.0,0.0,0.0,27.8,42.94574747244997
+Bubble Gum,Marukawa Conf. Co.  Ltd.,undefined,0.0,0.0,343.0,0.0,1370.0,0.0,0.0,0.0,34.300000000000004,42.94574747244997
+Seasoning Mix,Durkee,undefined,0.0,0.0,278.0,0.0,1110.0,0.0,0.0,0.0,27.8,42.94574747244997
+"Breakfast bar, Sweet and Salty Peanut Butter",Pure protein,"Dietary supplements, Bodybuilding supplements, Protein bars",0.0,0.0,500.0,1200.0,2400.0,800.0,0.0,0.0,50.0,41.239042107048675
+Nishime Kombu Dried Seaweed,Hime,undefined,0.0,0.0,415.0,138.0,692.0,0.0,0.0,0.0,41.5,38.88209312894071
+Organic Coconut Flour,Simply Roundy's,undefined,0.0,0.0,311.0,133.0,400.0,88.9,0.0,0.0,31.1,34.46022108950089
+Certified Organic Chia Seeds,Sweet Heart,undefined,0.0,0.0,348.0,208.0,347.0,208.0,0.0,0.0,34.800000000000004,32.765159917684244
+Whole Seed Chia,Bob's Red Mill,undefined,0.0,0.0,266.0,178.0,296.0,266.0,0.0,0.0,26.6,32.68334709552353
+Organic Black Chia Seeds,Simply Roundy's,undefined,0.0,0.0,277.0,208.0,278.0,243.0,0.0,0.0,27.700000000000003,32.68334709552353
+Dried Shiitake Mushrooms,Mellssa's,undefined,0.0,0.0,255.0,153.0,459.0,0.0,0.0,0.0,25.5,31.833494675606783
+Scandinavian Thins,Gg,undefined,0.0,0.0,300.0,200.0,400.0,300.0,0.0,0.0,30.0,31.77392561024536
+Thins Scandinavian Cracker,Gg,undefined,0.0,0.0,300.0,200.0,400.0,300.0,0.0,0.0,30.0,31.77392561024536
+Taco Seasoning Mix,Publix,undefined,0.0,0.0,278.0,278.0,1110.0,0.0,0.0,0.0,27.8,31.444191426965094
+Classic Gravy Mix,Springfield,undefined,0.0,0.0,278.0,278.0,1110.0,0.0,0.0,0.0,27.8,31.444191426965094
+Taco Seasoning Mix,Signature Kitchens,undefined,0.0,0.0,278.0,278.0,1110.0,0.0,0.0,0.0,27.8,31.444191426965094
+Mexican Style Taco Seasoning Mix,Weis,undefined,0.0,0.0,278.0,278.0,1110.0,0.0,0.0,0.0,27.8,31.444191426965094
+Fish Taco Seasoning Mix,"Ortega,  B&G Foods  Inc.",undefined,0.0,0.0,278.0,278.0,833.0,0.0,0.0,0.0,27.8,31.444191426965094
+Pork Chop Roasting Bag & Seasoning,Weis,undefined,0.0,0.0,278.0,278.0,1110.0,0.0,0.0,0.0,27.8,31.444191426965094
+Fish Taco Seasoning Mix,Ortega,undefined,0.0,0.0,278.0,278.0,833.0,0.0,0.0,0.0,27.8,31.444191426965094
+Gourmet Taco Seasoning,"Spice Islands,  Ach Food Companies  Inc.",undefined,0.0,0.0,278.0,278.0,1110.0,0.0,0.0,0.0,27.8,31.444191426965094
+Taco Seasoning Mix,Spartan,undefined,0.0,0.0,278.0,278.0,1110.0,0.0,0.0,0.0,27.8,31.444191426965094
+Taco Seasoning Mix,"Winn-Dixie,  Winn-Dixie Stores  Inc.",undefined,0.0,0.0,278.0,278.0,1110.0,0.0,0.0,0.0,27.8,31.444191426965094
+Wheat Bran,Bob's Red Mill,undefined,0.0,0.0,267.0,88.9,444.0,22.2,0.0,0.0,26.700000000000003,29.85804962048365
+Tomato Pesto,Frieda's,undefined,0.0,0.0,278.0,0.0,556.0,694.0,0.0,0.0,27.8,29.83110473845799
+Ground Chile,Melissa's,undefined,0.0,0.0,300.0,100.0,600.0,100.0,0.0,0.0,30.0,29.81744616959907
+Organic High Fiber Coconut Flour,"Bob's Red Mill,  Bob's Red Mill Natural Foods  Inc.",undefined,0.0,0.0,255.0,102.0,408.0,102.0,0.0,0.0,25.5,29.81744616959907
+Coconut Flour,The Kroger Co.,undefined,0.0,0.0,255.0,102.0,408.0,102.0,0.0,0.0,25.5,29.81744616959907
+"Tamarind Juice With Nata De Coco, Tamarind",Kelly Jelly,,0.0,0.0,250.0,0.0,2916.67,0.0,0.0,0.0,25.0,28.88171562732375
+Organic Brown Flax Seeds,"Weis,  Weis Markets  Inc.",undefined,0.0,0.0,237.0,118.0,237.0,296.0,0.0,0.0,23.700000000000003,26.024315244110735
+Humm Probiotic Kombucha,Humm,"Plant-based foods and beverages, Beverages, Fermented foods, Hot beverages, Plant-based beverages, Teas, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,7.1428571428571,64.285714285714,0.0,1.0,1.0,25.0,25.02823348669722
+Kombucha - Cola,"Live Soda  Llc, LIVE Soda","Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,66.67,0.0,1.0,1.0,25.0,25.028091828893064
+Raspberry Chia Kombucha,Millennium Products,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,1.7,0.8457,5.074,1.2685,1.0,1.0,25.17,25.02450944073853
+"Synergy, Organic Raw Kombucha, Enlightened, Grape Chia",Millennium Products,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,1.7,0.8457,5.074,1.2685,1.0,1.0,25.17,25.02450944073853
+Tantric Turmeric Organic & Raw Kombucha,GT's,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,100.0,0.0,1.0,1.0,25.0,25.023804639528745
+Pine Mango Kombucha,Cha Cha,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,1.0,0.0,3.3,0.0,1.0,1.0,25.1,25.01794150064066
+Danone Iaurt de baut cu capsuni,Danone,"Băuturi, Produse lactate, Alimente fermentate, en:Fermented milk products, en:Dairy drinks, Băuturi fermentate, en:Flavoured milks, en:Fermented milk drinks, en:Strawberry milks, Iaurt de baut cu fructe",0.0,0.0,0.0,2.9,10.6,2.5,1.0,1.0,25.0,25.004718177542188
+Strawberry lemonade kombucha,Humm,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,5.42,0.0,1.0,1.0,25.0,25.004715282398372
+Organic Raw Kombucha,Millennium Products,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.3826638477801,0.0,1.0,1.0,25.0,25.004715282398372
+"Kombucha, essence of lemon",Wonder Drink,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,6.28,0.0,1.0,1.0,25.0,25.004715282398372
+Kombucha,Chica Bella  Inc.,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.8,0.0,1.0,1.0,25.0,25.004715282398372
+Ginger Honey Lemon Kombucha,Wegmans,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.38,0.0,1.0,1.0,25.0,25.004715282398372
+"Organic Raw Kombucha, Hibiscus No 7","Millennium Products, Reisch","Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.3826638477801,0.0,1.0,1.0,25.0,25.004715282398372
+Kombucha Tea,Kombucha Town,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.3898305084746,0.0,1.0,1.0,25.0,25.004715282398372
+"Kombucha, essence of peach",Wonder Drink,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,6.28,0.0,1.0,1.0,25.0,25.004715282398372
+Kombucha,,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,4.0,0.0,1.0,1.0,25.0,25.004715282398372
+Love,Brew Dr. Kombucha,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.864454266599,0.0,1.0,1.0,25.0,25.004715282398372
+Organics kombucha,"Organics,  The Hain Celestial Group  Inc.","Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,4.17,0.0,1.0,1.0,25.0,25.004715282398372
+Kombucha,Health-Ade,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.59,0.0,1.0,1.0,25.0,25.004715282398372
+GT’s SYNERGY Raw Kombucha: Marine Greens,Millennium Products,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.42283298097252,3.3826638477801,0.0,1.0,1.0,25.0,25.004715282398372
+CLEAR MIND,BREW DR. KOMBUCHA,"Beverages and beverages preparations,Plant-based foods and beverages,Beverages,Fermented foods,Hot beverages,Plant-based beverages,Teas,Fermented drinks,Tea-based beverages,Kombuchas",0.0,0.0,0.0,0.0,3.62,0.0,1.0,1.0,25.0,25.004715282398372
+Lemon ginger kombucha,Humm,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,4.58,0.0,1.0,1.0,25.0,25.004715282398372
+"Kombucha wonder drink, sparkling fermented tea, cherry cassis, cherry cassis",Kombucha Wonder Drink Llc,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,5.31,0.0,1.0,1.0,25.0,25.004715282398372
+Kombucha,Townshend's Tea Company,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,4.35,0.0,1.0,1.0,25.0,25.004715282398372
+SUPERBERRY,BREW DR. KOMBUCHA,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,4.11,0.0,1.0,1.0,25.0,25.004715282398372
+Kombucha,Brew Dr. Kombucha,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,4.35,0.0,1.0,1.0,25.0,25.004715282398372
+Holy Kombucha,Holy Kombucha  Inc.,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.38,0.0,1.0,1.0,25.0,25.004715282398372
+Kombucha Blueberry and Ginger,Mojo,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,4.2,0.1,1.0,1.0,25.0,25.004715282398372
+Kombucha,Great Life  Llc,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,4.6610169491525,0.0,1.0,1.0,25.0,25.004715282398372
+"Craft Brewed Kombucha, Ginger",Great Life  Llc,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,5.0,0.0,1.0,1.0,25.0,25.004715282398372
+Kombucha,Tapuat Brewing Co,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.44,4.41,0.0,1.0,1.0,25.0,25.004715282398372
+Kombucha,Buchi,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,4.44,0.0,1.0,1.0,25.0,25.004715282398372
+Living foods enlightened organic kombucha watermelon wonder,GT's,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.81,0.0,1.0,1.0,25.0,25.004715282398372
+T s enlightened strawberry synergy organic vegan raw kombucha,GT's,"Plant-based foods and beverages, Beverages, Fermented foods, Hot beverages, Plant-based beverages, Teas, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.3826638477801,0.0,1.0,1.0,25.0,25.004715282398372
+Classic gingerberry,Millennium Products,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,3.33,0.0,1.0,1.0,25.0,25.004715282398372
+Protein jogurt,Zbregov,"Mliječni proizvodi, en:Fermented foods, en:Desserts, en:Fermented milk products, en:Dairy desserts, en:Fermented dairy desserts, en:Fermented dairy desserts with fruits, Jogurt, en:Fruit yogurts, en:Strawberry yogurts",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Iogurte Líquido Frutos Tropicais,"Hacendado, Schreiber","Bebidas,Laticínios,Alimentos Fermentados,Produtos lácteos fermentados,Sobremesas,Sobremesas de laticínios,Bebidas lácteas,en:Fermented dairy desserts,Bebidas fermentadas,Iogurtes,Bebidas lácteas fermentadas,en:Flavoured fermented dairy desserts,Iogurtes líquidos,Iogurtes aromatizados",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Yogur para beber fresa,Celgan,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Sveltesse - Duo fresa y kiwi 0%,Nestlé,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+"Smoothie&go bífidus líquido con mango, melocotón,",Danone,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+HEALTH KOMBUCHA hibiscus,HEALTH KOMBUCHA,"Plant-based foods and beverages, Beverages, Fermented foods, Hot beverages, Plant-based beverages, Fermented drinks, Herbal teas, Tea-based beverages, Hibiscus, Kombuchas",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Yaourt gourmand,Mamie Nova,"Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fermented dairy desserts with fruits, Yogurts, Fruit yogurts, Strawberry yogurts, en:stirred-yogurts",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Iogurt Maduixa,La Torre,"Productes làctics, Aliments fermentats, Postres, Productes làctics fermentats, Postres làctics, en:Fermented dairy desserts, en:Fermented dairy desserts with fruits, Iogurt, Iogurs de fruita, en:Strawberry yogurts",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Yogurt batido con arandanos,Yaranza,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Activitas fresa,Eroski,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Yoghurt Deslactosado para beber sabor Durazno,Alpura,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, en:Fermented dairy desserts with fruits, Bebidas de leche fermentada, Yogures, Yogures de frutas, Yogures para beber, Bebidas azucaradas",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Gastro Protect Fresa,Nestle,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures de sabores, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+yogurt bebible sabor lúcuma,Gloria,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber, Productos fermentados de la lechee",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Bio 4 Balance,Lala,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures de sabores, Yogures para beber, Bebidas azucaradas, Yog",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Yogur líquido sabor piña,,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+L Casei fresa 0%,Hacendado,"Bebidas y preparaciones de bebidas,Bebidas,Lácteos,Comidas fermentadas,Productos fermentados de la leche,Postres,Postres lácteos,Bebida lácteas,en:Fermented dairy desserts,Bebidas fermentadas,Bebidas de leche fermentada,Yogures,Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Danone Actimel® ERDBEERE 8X100G,"Actimel, Danone","Getränke und Getränkezubereitungen, Getränke, Milchprodukte, Fermentierte Lebensmittel, Fermentierte Milch, Desserts, Milchnachspeisen, Milchgetränke, en:Fermented dairy desserts, Fermentierte Getränke, Fermentierte Milchgetränke, Joghurt, Trinkjoghurt, en:Flavoured yogurt drinks, en:Fruit flavoured yogurt drinks, en:Strawberry yogurt drinks",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+alpura Yoghurt deslactosado,Alpura,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, en:Fermented dairy desserts with fruits, Bebidas de leche fermentada, Yogures, Yogures de frutas, Yogures para beber, Bebidas azucaradas",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Actimel,Danone,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Organic Kombucha Cosmic Cranberry,,"Beverages, Fermented foods, Fermented drinks, Tea-based beverages, Kombuchas",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Synergy Cosmic Cranberry Raw Kombucha,GT's,"Plant-based foods and beverages,Beverages,Fermented foods,Plant-based beverages,Fruit-based beverages,Fermented drinks,Unsweetened beverages,Tea-based beverages,Kombuchas",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Protein Milkshake Tropical,Arla,"Bebidas,Lácteos,Comidas fermentadas,Productos fermentados de la leche,Postres,Postres lácteos,Bebida lácteas,en:Fermented dairy desserts,Bebidas fermentadas,Yogures,Bebidas de leche fermentada,en:drinkable-yogurts",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+YoPRO Drinks Limon Menta,"Danone, YoPRO","Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+La Lechera Frutíssimo yogur líquido con fresa y piña,Nestlé,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
+Bon yourt fresa,Eroski,"Bebidas, Lácteos, Comidas fermentadas, Postres, Productos fermentados de la leche, Postres lácteos, Bebida lácteas, en:Fermented dairy desserts, Bebidas fermentadas, Bebidas de leche fermentada, Yogures, Yogures para beber",0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,25.0,24.998735291969687
